@@ -1,6 +1,4 @@
-# [Messenger](https://obscure-journey-22389.herokuapp.com/)
-
-[https://obscure-journey-22389.herokuapp.com/](https://obscure-journey-22389.herokuapp.com/)
+# Messenger
 
 ## Замечания для ревью
 
